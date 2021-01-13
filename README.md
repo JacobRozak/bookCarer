@@ -47,4 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Not the most responsive app ever made
 
-but still gets the job done
+but still gets the job done, sometimes
+
+but sometimes it doesnt
