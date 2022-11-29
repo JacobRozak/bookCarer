@@ -1,0 +1,51 @@
+.top-banner {
+    background: #800369;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    }
+    
+.top-banner {
+    background: #800369;
+    height: 0px;
+    padding: 175px 0 0;
+}
+
+.banner-img {
+    width: 200px;
+    height: 200px;
+}
+
+.banner-img > img {
+    left: 50px;
+    position: absolute;
+    width: 228px;
+    height: 93px;
+    top: 29px;
+    height: 99px;
+}
+
+.top-banner > h1{
+    position: absolute;
+    top: 22px;
+    left: 325px;
+    color: white;
+    font-weight: lighter;
+}
+
+.top-banner > h2{
+    position: absolute;
+    top: 90px;
+    left: 325px;
+    color: white;
+    font-weight: lighter;
+}
+
+.timer{
+    position: absolute;
+    top: 60px !important;
+    left: 1025px !important;
+    color: white;
+}
